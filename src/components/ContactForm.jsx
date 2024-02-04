@@ -1,4 +1,5 @@
 import React from 'react';
+import Video from './Video';
 
 const ContactForm = () => {
   return (
@@ -47,6 +48,7 @@ const ContactForm = () => {
           <button type="submit" className="btn btn-secondary text-white bg-red-600">Submit</button>
         </div>
       </form>
+      <Video/>
     </div>
   );
 }
