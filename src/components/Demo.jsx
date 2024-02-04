@@ -31,9 +31,9 @@ const Demo = () => {
         
         <nav className="flex justify-around sm:text-2xl">
           <a href="#home" className=" text-sm sm:text-2xl hover:text-gray-300">Home</a>
-          <a href="/aboutnew" className=" text-sm sm:text-2xl hover:text-gray-300">About</a>
-          <a href="/services" className= "text-sm sm:text-2xl hover:text-gray-300">Services</a>
-          <a href="/blog" className= "text-sm sm:text-2xl hover:text-gray-300">Blog  </a>
+          <a href="/" className=" text-sm sm:text-2xl hover:text-gray-300">About</a>
+          <a href="/" className= "text-sm sm:text-2xl hover:text-gray-300">Services</a>
+          <a href="/" className= "text-sm sm:text-2xl hover:text-gray-300">Blog  </a>
           <a href="#box" className= " text-sm sm:text-2xl hover:text-gray-300">Contact</a>
         </nav>
       
